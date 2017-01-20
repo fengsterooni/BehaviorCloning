@@ -242,4 +242,4 @@ Test drives are also performed to check whether the car can stay on track.
 - [Nvidia End-to-End Deep Learning for Self-Driving Cars paper](https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/)
 
 ## ScreenCast
-![video]()
+![screenshot](https://github.com/fengsterooni/BehaviorCloning/blob/master/clone.gif)
